@@ -1,4 +1,4 @@
-# DIET 飯 — 9/12 的 MVP
+# DIET 飯 — 9/12 第一版 的 MVP
 
 這是以台大公館生活圈為背景的 responsive web app。資料保存在同一個瀏覽器的 localStorage；所有用戶、價格、餐點、行程、時間、訊息和交易皆為示範。沒有真實金流、即時 GPS 或 LLM 呼叫。
 
